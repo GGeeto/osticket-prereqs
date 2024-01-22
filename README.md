@@ -32,6 +32,8 @@ We are using a Virtual Machine in this project so those with personal devices ca
 - Install VC_redist.x86.exe.
 - Install MySQL 5.5.62
 - Install HeidiSQL
+  
+All download links were provided by [Joshmadakorcc](https://github.com/joshmadakorcc) 😎
 
 <h2>Installation Steps</h2>
 
