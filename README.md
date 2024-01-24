@@ -43,7 +43,7 @@ All download links were provided by [Joshmadakorcc](https://github.com/joshmadak
 <p>
 </h2> Virtual Machine </h2>
 
-- Log Into Microsoft Azure and create a Windows 10 (21h2) Virtual Machine with a recommended 4 vcpus at least. Make sure a Virtual Network is being made along side the VM. Its unnecessary to configure with the rest of the settings, If you are unfimiliar with Azure, refer to my "Creating a virtual Machine within Microsoft Azure" repository. 
+- Log Into Microsoft Azure and create a Windows 10 (21h2) Virtual Machine with a recommended 4 vcpus at least. Make sure a Virtual Network is being made along side the VM. Its unnecessary to configure with the rest of the settings, If you are unfimiliar with Azure, refer to my [Microsoft Azure: Vitual MAchine](https://github.com/GGeeto/Microsoft-Azure-Creating-a-Virtual-Machine/blob/main/README.md) repository. 
 - Connect to the Virtual Machine via remote desktop  
 </p>
 <br />
