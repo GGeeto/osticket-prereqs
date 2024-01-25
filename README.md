@@ -49,7 +49,7 @@ All download links were provided by [Joshmadakorcc](https://github.com/joshmadak
 <br />
 
 <p>
-<img src="https://imgur.com/r1fN2Bc.png"
+<img src="https://imgur.com/cyuu43o.png"
 </p>
 <p>
 </h2> Enable Windows Features </h2>
@@ -57,7 +57,8 @@ All download links were provided by [Joshmadakorcc](https://github.com/joshmadak
 - Head staright to control panel then to the programs settings within control panel.
 - Under Programs and features, click Turn Windows features on and off with the admin icon next to it.
 - Find the Internet Information Services folder then check the box and expand it.
-- Within the folder expand the Application Development Features folder and check the folder labled CGI.
+- Then expand World Wide Web services
+- Within WWWS expand Application Development Features folder and check the folder labled CGI.
 - Then expand the Common HTTP Features folder within the IIS folder. Every folder within this folder needs to be checked.
 - Click OK on the bottom right and wait for the programs to be installed.
 </p>
@@ -143,8 +144,8 @@ All download links were provided by [Joshmadakorcc](https://github.com/joshmadak
 </h2> Installing HeidiSQL </h2>
 
 - Download and Install [HeidiSQL](https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit)
-- Launch and click new, keep this user as root and enter the password you created during the Configuration of MySQL
-- Click open, right click the Database "Unamed". Then Hover over Create new and click database.
+- Launch and click new, keep this user as root and enter the password you created during the Configuration of MySQL then click open
+- Then Right click the Database 'Unamed'. Then Create new and click database.
 - Name it osTicket, click OK
   </p>
 <br />
