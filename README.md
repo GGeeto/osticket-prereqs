@@ -33,7 +33,7 @@ We are using a Virtual Machine in this project so those with personal devices ca
 - Install MySQL 5.5.62
 - Install HeidiSQL
   
-All download links were provided by [Joshmadakorcc](https://github.com/joshmadakorcc) 😎
+All download links were provided by [Joshmadakorcc](https://github.com/joshmadakor1) 😎
 
 <h2>Installation Steps</h2>
 
